@@ -1,4 +1,4 @@
-# API Tool Customer Success Roadmaps
+# API Hub | Adoption Roadmaps
 
 This repository contains comprehensive 12-month customer success roadmaps for each module of the API Hub. These roadmaps are designed for Customer Success Managers (CSMs) to help guide customers through implementation, adoption, and value realization during their first year with the product.
 
