@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with SwaggerHub Portal. It outlines a structured approach to ensure customers successfully implement an API developer portal that increases API discovery and adoption, improves the developer experience, and establishes effective feedback loops with API consumers.
+This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with Portal. It outlines a structured approach to ensure customers successfully implement an API developer portal that increases API discovery and adoption, improves the developer experience, and establishes effective feedback loops with API consumers.
 
 The plan assumes a phased approach:
 - **Months 1-3**: Initial setup, branding, and publishing pilot APIs
@@ -21,7 +21,7 @@ The plan assumes a phased approach:
 
 ## Success Metrics & KPIs
 
-Track these key metrics to demonstrate the ROI of SwaggerHub Portal:
+Track these key metrics to demonstrate the ROI of Portal:
 
 ### API Discovery & Adoption Metrics
 - **API discovery time**: Reduction in time for developers to find relevant APIs
@@ -58,7 +58,7 @@ Track these key metrics to demonstrate the ROI of SwaggerHub Portal:
 
 **Activities**:
 - Initial kickoff call (Week 1)
-- SwaggerHub Portal environment setup and configuration
+- Portal environment setup and configuration
 - Portal branding and customization
 - Training: Portal administration and content management
 - Identify 2-3 pilot APIs for initial publication
@@ -290,10 +290,10 @@ Track these key metrics to demonstrate the ROI of SwaggerHub Portal:
 ### Week 1: Kickoff Call
 **Participants**: CSM, Customer Project Lead, API Team Leads, Executive Sponsor
 **Agenda**:
-- Introduction to SwaggerHub Portal Customer Success program
+- Introduction to Portal Customer Success program
 - Review of customer's API landscape and consumer objectives
 - Initial assessment of API documentation and discovery processes
-- Setup of SwaggerHub Portal environment
+- Setup of Portal environment
 - Agreement on success criteria and metrics
 - Next steps and action items
 
@@ -392,8 +392,8 @@ Track these key metrics to demonstrate the ROI of SwaggerHub Portal:
 
 ## Resources
 
-### SwaggerHub Portal Documentation Resources
-- [SwaggerHub Portal Documentation](https://support.smartbear.com/swaggerhub/docs/portal/)
+### Portal Documentation Resources
+- [Portal Documentation](https://support.smartbear.com/swaggerhub/docs/portal/)
 - [API Documentation Best Practices](https://swagger.io/resources/articles/best-practices-in-api-documentation/)
 - [Portal Administration Guide](https://support.smartbear.com/swaggerhub/docs/portal/admin-tasks.html)
 - [Portal Customization Guide](https://support.smartbear.com/swaggerhub/docs/portal/customizing.html)
