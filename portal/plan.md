@@ -1,4 +1,4 @@
-# SwaggerHub Portal Customer Success Roadmap
+# API Hub for Portal | Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
