@@ -1,4 +1,4 @@
-# SwaggerHub Customer Success Roadmap
+# API Hub for Design | Customer Success Roadmap
 ## First 12 Months Implementation & Adoption Plan
 
 ## Table of Contents
