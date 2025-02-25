@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with SwaggerHub. It outlines a structured approach to ensure customers successfully implement a design-first API strategy, maximize collaboration on API design, and significantly reduce time-to-market for their APIs.
+This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with API Hub. It outlines a structured approach to ensure customers successfully implement a design-first API strategy, maximize collaboration on API design, and significantly reduce time-to-market for their APIs.
 
 The plan assumes a phased approach:
 - **Months 1-3**: Initial setup, training, and pilot API project
@@ -21,7 +21,7 @@ The plan assumes a phased approach:
 
 ## Success Metrics & KPIs
 
-Track these key metrics to demonstrate the ROI of design-first API development with SwaggerHub:
+Track these key metrics to demonstrate the ROI of design-first API development with API Hub:
 
 ### API Development Efficiency Metrics
 - **API design time reduction**: % decrease in time spent on API design phase
@@ -58,7 +58,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Activities**:
 - Initial kickoff call (Week 1)
-- SwaggerHub environment setup and configuration
+- API Hub environment setup and configuration
 - Admin console setup and user management
 - Training: Introduction to OpenAPI and design-first approach
 - Identify 1-2 pilot API projects for initial implementation
@@ -66,10 +66,10 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Establish baseline metrics for future comparison
 
 **Success Criteria**:
-- SwaggerHub environment configured
-- Core team trained on OpenAPI concepts and SwaggerHub
+- API Hub environment configured
+- Core team trained on OpenAPI concepts and API Hub
 - Pilot API project(s) identified with clear objectives
-- Initial API designs created in SwaggerHub
+- Initial API designs created in API Hub
 - Baseline metrics established
 
 ### Month 2: Pilot Implementation
@@ -81,13 +81,13 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Implementation of organization-specific style guides
 - Developer workshops on effective API design
 - Setting up API design review processes
-- Training on SwaggerHub's collaboration features
+- Training on API Hub's collaboration features
 - Guidelines for API documentation and descriptions
 
 **Success Criteria**:
-- First API fully designed in SwaggerHub
+- First API fully designed in API Hub
 - Team actively using collaboration features
-- API design reviews happening in SwaggerHub
+- API design reviews happening in API Hub
 - Documentation standards established
 - Developers comfortable with OpenAPI design
 
@@ -104,7 +104,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Review and refinement of implementation approach based on pilot
 
 **Success Criteria**:
-- Pilot team successfully using SwaggerHub in daily workflows
+- Pilot team successfully using API Hub in daily workflows
 - Initial metrics showing value (e.g., faster feedback, reduced design time)
 - Expansion plan developed for next wave of teams/APIs
 - API design standards documented
@@ -118,13 +118,13 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Onboarding of 2-3 additional teams
 - Knowledge transfer from pilot teams to new teams
 - Creation of API templates for common patterns
-- Implementation of SwaggerHub domains for organization
+- Implementation of API Hub domains for organization
 - Integration with source control systems
 - Refinement of API design guidelines
 
 **Success Criteria**:
-- SwaggerHub adoption expanded to at least 2 new teams
-- Teams autonomously designing APIs in SwaggerHub
+- API Hub adoption expanded to at least 2 new teams
+- Teams autonomously designing APIs in API Hub
 - API templates created and in use
 - Domain structure implemented for organizational needs
 - Source control integration configured
@@ -136,13 +136,13 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - Integration with CI/CD pipelines
 - Automated API validation in build process
 - Implementation of API style validation
-- Advanced workshop: SwaggerHub in CI/CD
+- Advanced workshop: API Hub in CI/CD
 - Standardization of naming conventions and patterns
 - Integration with API gateways (if applicable)
 - Setup of automated API documentation generation
 
 **Success Criteria**:
-- SwaggerHub integrated with CI/CD processes
+- API Hub integrated with CI/CD processes
 - Automated validation of API designs in pipeline
 - Standardized naming conventions implemented
 - API documentation automatically generated and published
@@ -162,7 +162,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 **Success Criteria**:
 - Measurable improvements in API design time and quality
-- At least 50% of target teams using SwaggerHub
+- At least 50% of target teams using API Hub
 - Executive stakeholders recognize value
 - Clear strategy for second half of year
 - Initial API governance framework defined
@@ -190,15 +190,15 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 **Focus**: Implementing advanced features and scaling across organization
 
 **Activities**:
-- Workshop: Advanced SwaggerHub features
-- Implementation of SwaggerHub Registry for API discovery
+- Workshop: Advanced API Hub features
+- Implementation of API Hub Registry for API discovery
 - Setup of API dependency management
 - Integration with additional development tools
 - Performance optimization of workflows
-- Training on SwaggerHub APIs and integrations
+- Training on API Hub APIs and integrations
 
 **Success Criteria**:
-- Teams using advanced SwaggerHub features
+- Teams using advanced API Hub features
 - API Registry implemented for discovery
 - Dependencies managed effectively
 - Custom integrations implemented where needed
@@ -284,10 +284,10 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 ### Week 1: Kickoff Call
 **Participants**: CSM, Customer Project Lead, API Team Leads, Executive Sponsor
 **Agenda**:
-- Introduction to SwaggerHub Customer Success program
+- Introduction to API Hub Customer Success program
 - Review of customer's API landscape and objectives
 - Initial assessment of API development practices
-- Setup of SwaggerHub environment
+- Setup of API Hub environment
 - Agreement on success criteria and metrics
 - Next steps and action items
 
@@ -370,7 +370,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Challenge: Demonstrating Business Value to Executives
 **Solutions**:
-- Track time-to-market for APIs before and after SwaggerHub
+- Track time-to-market for APIs before and after API Hub
 - Document reduction in design and implementation errors
 - Calculate developer time saved in documentation
 - Showcase improved API consumer satisfaction
@@ -380,25 +380,25 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 **Solutions**:
 - Establish clear versioning strategy
 - Implement automated changelog generation
-- Use SwaggerHub's version control features
+- Use API Hub's version control features
 - Create guidelines for breaking vs. non-breaking changes
 - Setup automated compatibility checking
 
 ## Resources
 
-### SwaggerHub Documentation Resources
-- [SwaggerHub Documentation](https://support.smartbear.com/swaggerhub/)
+### API Hub Documentation Resources
+- [API Hub Documentation](https://support.smartbear.com/API Hub/)
 - [OpenAPI Specification](https://swagger.io/specification/)
-- [SwaggerHub Style Validator](https://github.com/SmartBear/swaggerhub-cli)
+- [API Hub Style Validator](https://github.com/SmartBear/API Hub-cli)
 - [Best Practices Guide](https://swagger.io/resources/articles/best-practices-in-api-design/)
 
 ### Training Resources
-- [SwaggerHub Academy](https://academy.smartbear.com/)
+- [API Hub Academy](https://academy.smartbear.com/)
 - [API Design Workshops](https://swagger.io/resources/webinars/)
 - [OpenAPI Initiative](https://www.openapis.org/)
 
 ### Implementation Resources
-- [CI/CD Integration Examples](https://support.smartbear.com/swaggerhub/docs/integrations/)
-- [SwaggerHub CLI](https://github.com/SmartBear/swaggerhub-cli)
-- [SwaggerHub Registry API](https://app.swaggerhub.com/apis/swagger-hub/registry-api/)
+- [CI/CD Integration Examples](https://support.smartbear.com/API Hub/docs/integrations/)
+- [API Hub CLI](https://github.com/SmartBear/API Hub-cli)
+- [API Hub Registry API](https://app.API Hub.com/apis/swagger-hub/registry-api/)
 - [API Governance Guide](https://swagger.io/resources/articles/api-governance-guidelines/)
