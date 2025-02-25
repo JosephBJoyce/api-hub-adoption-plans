@@ -395,13 +395,12 @@ Track these key metrics to demonstrate the ROI of Portal:
 ### Portal Documentation Resources
 - [Portal Documentation](https://support.smartbear.com/api-hub/portal/docs/en/overview.html)
 - [API Documentation Best Practices](https://swagger.io/resources/articles/best-practices-in-api-documentation/)
-- [Portal Administration Guide](https://support.smartbear.com/swaggerhub/docs/portal/admin-tasks.html)
-- [Portal Customization Guide](https://support.smartbear.com/swaggerhub/docs/portal/customizing.html)
+- [Portal Administration Guide](https://support.smartbear.com/api-hub/portal/docs/en/role-management.html)
+- [Portal Customization Guide](https://support.smartbear.com/api-hub/portal/docs/en/provider-view/portal-configuration-page.html)
 
 ### Training Resources
 - [SwaggerHub Academy](https://academy.smartbear.com/)
 - [API Documentation Workshops](https://swagger.io/resources/webinars/)
-- [Developer Experience Best Practices](https://swagger.io/resources/articles/designing-great-api-developer-experience/)
 
 ### Implementation Resources
 - [Docs-as-Code Setup](https://www.youtube.com/watch?v=7D5bbaj60Cc&t=494s)
