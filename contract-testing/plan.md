@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with PactFlow. It outlines a structured approach to ensure customers achieve a successful implementation, maximize adoption, and realize measurable ROI from their contract testing investment.
+This document serves as a guide for Customer Success Managers (CSMs) supporting customers during their first 12 months with Contract Testing. It outlines a structured approach to ensure customers achieve a successful implementation, maximize adoption, and realize measurable ROI from their contract testing investment.
 
 The plan assumes a phased approach:
 - **Months 1-3**: Initial setup, pilot implementation, training
@@ -21,7 +21,7 @@ The plan assumes a phased approach:
 
 ## Success Metrics & KPIs
 
-Track these key metrics to demonstrate the ROI of contract testing with PactFlow:
+Track these key metrics to demonstrate the ROI of contract testing with Contract Testing:
 
 ### Technical Metrics
 - **Decrease in integration issues**: % reduction in integration bugs found in testing/production
@@ -49,14 +49,14 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 **Activities**:
 - Initial kickoff call (Week 1)
-- PactFlow environment setup and configuration
+- Contract Testing environment setup and configuration
 - Team training: Introduction to contract testing and Pact concepts
 - Identify 1-2 pilot projects/teams for initial implementation
 - Set up broker configuration and CI/CD integration for pilot projects
 - Establish baseline metrics for future comparison
 
 **Success Criteria**:
-- PactFlow environment configured
+- Contract Testing environment configured
 - Core team trained on Pact concepts
 - Pilot project(s) identified with clear objectives
 - Initial contracts written for at least one consumer-provider pair
@@ -104,7 +104,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 - Knowledge transfer from pilot teams to new teams
 - Refinement of implementation playbook based on lessons learned
 - Implementation of webhook notifications for contract breaks
-- Setup of team-specific dashboards in PactFlow
+- Setup of team-specific dashboards in Contract Testing
 
 **Success Criteria**:
 - Contract testing expanded to at least 2 new teams
@@ -249,10 +249,10 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
 
 **Agenda**:
-- Introduction to PactFlow Customer Success program
+- Introduction to Contract Testing Customer Success program
 - Review of customer's API ecosystem and objectives
 - Initial technical assessment
-- Setup of PactFlow environment
+- Setup of Contract Testing environment
 - Agreement on success criteria and metrics
 - Next steps and action items
 
@@ -332,7 +332,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Challenge: Managing Complex Microservice Ecosystems
 **Solutions**:
-- Visualize dependencies using PactFlow network diagram
+- Visualize dependencies using Contract Testing network diagram
 - Start with bounded contexts or specific domains
 - Implement contract testing incrementally
 - Focus on critical paths first
@@ -357,19 +357,19 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ## Resources
 
-### PactFlow Documentation Resources
-- [PactFlow Documentation](https://docs.pactflow.io/)
+### Contract Testing Documentation Resources
+- [Contract Testing Documentation](https://docs.Contract Testing.io/)
 - [Pact JS Documentation](https://github.com/pact-foundation/pact-js)
 - [Pact JVM Documentation](https://github.com/pact-foundation/pact-jvm)
-- [Best Practices Guide](https://docs.pactflow.io/docs/best-practices/)
+- [Best Practices Guide](https://docs.Contract Testing.io/docs/best-practices/)
 
 ### Training Resources
 - [Pact Workshop - JS](https://github.com/pact-foundation/pact-workshop-js)
 - [Pact Workshop - JVM](https://github.com/pact-foundation/pact-workshop-jvm)
-- [Contract Testing Explained](https://docs.pactflow.io/docs/contract-testing-explained/)
+- [Contract Testing Explained](https://docs.Contract Testing.io/docs/contract-testing-explained/)
 
 ### Implementation Resources
-- [CI/CD Examples](https://docs.pactflow.io/docs/examples/)
-- [Webhooks Setup Guide](https://docs.pactflow.io/docs/webhooks/)
-- [Bi-directional Contract Testing](https://docs.pactflow.io/docs/bi-directional-contract-testing/)
-- [Can-I-Deploy Guide](https://docs.pactflow.io/docs/can-i-deploy/)
+- [CI/CD Examples](https://docs.Contract Testing.io/docs/examples/)
+- [Webhooks Setup Guide](https://docs.Contract Testing.io/docs/webhooks/)
+- [Bi-directional Contract Testing](https://docs.Contract Testing.io/docs/bi-directional-contract-testing/)
+- [Can-I-Deploy Guide](https://docs.Contract Testing.io/docs/can-i-deploy/)
