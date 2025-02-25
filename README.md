@@ -8,9 +8,9 @@ This repository contains comprehensive 12-month customer success roadmaps for ea
 
 The repository is organized into three folders, each containing a detailed customer success roadmap for a specific tool:
 
-- **PactFlow** - Contract testing implementation roadmap
-- **SwaggerHub** - API design-first implementation roadmap  
-- **SwaggerHub-Portal** - API documentation and developer portal roadmap
+- **Contract Testing** - Contract testing implementation roadmap
+- **Design** - API design-first implementation roadmap  
+- **Portal** - API documentation portal roadmap
 
 Each folder contains a markdown (.md) file with a structured 12-month plan including monthly activities, success metrics, check-in schedules, and common challenges with solutions.
 
