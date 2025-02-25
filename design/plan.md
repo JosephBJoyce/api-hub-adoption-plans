@@ -283,6 +283,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Week 1: Kickoff Call
 **Participants**: CSM, Customer Project Lead, API Team Leads, Executive Sponsor
+
 **Agenda**:
 - Introduction to API Hub Customer Success program
 - Review of customer's API landscape and objectives
@@ -293,6 +294,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Month 1: Technical Implementation Review
 **Participants**: CSM, Technical Leads, API Developers
+
 **Agenda**:
 - Review of technical setup
 - Address early implementation questions
@@ -302,6 +304,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Month 3: Pilot Completion Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Pilot Team
+
 **Agenda**:
 - Review of pilot implementation
 - Lessons learned and challenges
@@ -312,6 +315,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Month 6: Mid-year Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
+
 **Agenda**:
 - Progress against initial objectives
 - Metrics and ROI assessment
@@ -323,6 +327,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Month 9: API Program Assessment
 **Participants**: CSM, Customer Project Lead, API Governance Team
+
 **Agenda**:
 - API governance implementation assessment
 - Consumer experience evaluation
@@ -333,6 +338,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 
 ### Month 12: Annual Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
+
 **Agenda**:
 - Comprehensive review of first-year journey
 - ROI presentation and analysis
