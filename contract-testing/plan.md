@@ -358,7 +358,7 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 ## Resources
 
 ### Contract Testing Documentation Resources
-- [Introduction to Contract Testing](https://smartbear.com/academy/pactflow/introduction-to-contract-testing/))
+- [Introduction to Contract Testing](https://smartbear.com/academy/pactflow/introduction-to-contract-testing/)
 - [Pact Foundation GitHub Org](https://github.com/pact-foundation)
 
 
