@@ -405,4 +405,4 @@ Track these key metrics to demonstrate the ROI of Portal:
 
 ### Implementation Resources
 - [Docs-as-Code Setup](https://www.youtube.com/watch?v=7D5bbaj60Cc&t=494s)
-- [Developer Portal Maturity Model](https://swagger.io/resources/articles/developer-portal-maturity-model/)
+- [Integrations](https://support.smartbear.com/api-hub/portal/docs/en/integrations.html)
