@@ -358,18 +358,12 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 ## Resources
 
 ### Contract Testing Documentation Resources
-- [Contract Testing Documentation](https://docs.Contract Testing.io/)
-- [Pact JS Documentation](https://github.com/pact-foundation/pact-js)
-- [Pact JVM Documentation](https://github.com/pact-foundation/pact-jvm)
-- [Best Practices Guide](https://docs.Contract Testing.io/docs/best-practices/)
+- [Introduction to Contract Testing](https://smartbear.com/academy/pactflow/introduction-to-contract-testing/))
+- [Pact Foundation GitHub Org](https://github.com/pact-foundation)
 
-### Training Resources
-- [Pact Workshop - JS](https://github.com/pact-foundation/pact-workshop-js)
-- [Pact Workshop - JVM](https://github.com/pact-foundation/pact-workshop-jvm)
-- [Contract Testing Explained](https://docs.Contract Testing.io/docs/contract-testing-explained/)
 
 ### Implementation Resources
-- [CI/CD Examples](https://docs.Contract Testing.io/docs/examples/)
-- [Webhooks Setup Guide](https://docs.Contract Testing.io/docs/webhooks/)
-- [Bi-directional Contract Testing](https://docs.Contract Testing.io/docs/bi-directional-contract-testing/)
-- [Can-I-Deploy Guide](https://docs.Contract Testing.io/docs/can-i-deploy/)
+- [CI/CD Examples](https://docs.pact.io/pact_nirvana)
+- [Webhooks Setup Guide](https://docs.pact.io/pact_broker/webhooks)
+- [Bi-directional Contract Testing](https://docs.pactflow.io/docs/bi-directional-contract-testing/)
+- [Can-I-Deploy Guide](https://docs.pact.io/pact_broker/can_i_deploy)
