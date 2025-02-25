@@ -247,6 +247,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Week 1: Kickoff Call
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
+
 **Agenda**:
 - Introduction to PactFlow Customer Success program
 - Review of customer's API ecosystem and objectives
@@ -257,6 +258,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Month 1: Technical Implementation Review
 **Participants**: CSM, Technical Leads, Developers
+
 **Agenda**:
 - Review of technical setup
 - Address early implementation questions
@@ -266,6 +268,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Month 3: Pilot Completion Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Pilot Team
+
 **Agenda**:
 - Review of pilot implementation
 - Lessons learned and challenges
@@ -276,6 +279,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Month 6: Mid-year Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
+
 **Agenda**:
 - Progress against initial objectives
 - Metrics and ROI assessment
@@ -287,6 +291,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Month 9: Optimization Review
 **Participants**: CSM, Customer Project Lead, Technical Leads
+
 **Agenda**:
 - Advanced implementation assessment
 - Cross-team collaboration evaluation
@@ -297,6 +302,7 @@ Track these key metrics to demonstrate the ROI of contract testing with PactFlow
 
 ### Month 12: Annual Review
 **Participants**: CSM, Customer Project Lead, Technical Leads, Executive Sponsor
+
 **Agenda**:
 - Comprehensive review of first-year journey
 - ROI presentation and analysis
