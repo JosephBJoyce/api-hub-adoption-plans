@@ -393,9 +393,8 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 ## Resources
 
 ### API Hub Documentation Resources
-- [API Hub Documentation](https://support.smartbear.com/API Hub/)
+- [API Hub Documentation](https://support.smartbear.com//)
 - [OpenAPI Specification](https://swagger.io/specification/)
-- [API Hub Style Validator](https://github.com/SmartBear/API Hub-cli)
 - [Best Practices Guide](https://swagger.io/resources/articles/best-practices-in-api-design/)
 
 ### Training Resources
@@ -404,7 +403,7 @@ Track these key metrics to demonstrate the ROI of design-first API development w
 - [OpenAPI Initiative](https://www.openapis.org/)
 
 ### Implementation Resources
-- [CI/CD Integration Examples](https://support.smartbear.com/API Hub/docs/integrations/)
-- [API Hub CLI](https://github.com/SmartBear/API Hub-cli)
-- [API Hub Registry API](https://app.API Hub.com/apis/swagger-hub/registry-api/)
+- [CI/CD Integration Examples](https://support.smartbear.com/swaggerhub/docs/integrations/)
+- [API Hub CLI](https://github.com/SmartBear/swaggerHub-cli)
+- [API Hub Registry API](https://app.swaggerhub.com/apis/swagger-hub/registry-api/)
 - [API Governance Guide](https://swagger.io/resources/articles/api-governance-guidelines/)
