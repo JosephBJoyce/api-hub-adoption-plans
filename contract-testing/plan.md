@@ -69,7 +69,6 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 - Hands-on assistance with writing Pact tests
 - Developer workshops for pilot teams
 - Integration of Pact verification into CI/CD pipeline
-- Implementation of contract testing best practices
 - Troubleshooting and knowledge sharing
 
 **Success Criteria**:
@@ -85,6 +84,7 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 - 30-day pilot review meeting
 - Documentation of early wins and challenges
 - Planning for expansion to additional teams/services
+- Implementation of webhook notifications for contract breaks
 - Advanced training for pilot teams
 - Review and refinement of implementation approach based on pilot
 
@@ -102,7 +102,6 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 - Onboarding of 2-3 additional teams
 - Knowledge transfer from pilot teams to new teams
 - Refinement of implementation playbook based on lessons learned
-- Implementation of webhook notifications for contract breaks
 - Setup of team-specific dashboards in Contract Testing
 
 **Success Criteria**:
@@ -150,14 +149,11 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 **Activities**:
 - Expansion to additional teams/services
 - Standardization of contract testing approaches
-- Implementation of contract testing guidelines
 - Training for new teams
-- Setup of cross-team contract governance
 
 **Success Criteria**:
 - Contract testing adopted by majority of target teams
 - Standardized approach across teams
-- Clear governance model for contract management
 - New teams onboarded with minimal direct CSM involvement
 
 ### Month 8: Advanced Features & Use Cases
@@ -166,9 +162,8 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 **Activities**:
 - Workshop: Advanced Pact features and patterns
 - Implementation of pending pacts workflow
-- Setup of provider states and test data management
+- Setup of provider states
 - Integration with additional testing approaches
-- Performance optimization of contract tests
 
 **Success Criteria**:
 - Teams using advanced Pact features appropriately
@@ -181,7 +176,6 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 
 **Activities**:
 - Cross-team contract review sessions
-- Implementation of contract ownership model
 - Enhancement of documentation and knowledge sharing
 - Optimization of developer experience
 - Refinement of notification and escalation processes
@@ -197,7 +191,6 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 
 **Activities**:
 - Performance review of contract testing workflows
-- Optimization of test execution and verification
 - Implementation of contract test maintenance strategies
 - Advanced troubleshooting workshop
 - Update of best practices based on learnings
