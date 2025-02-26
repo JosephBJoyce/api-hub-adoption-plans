@@ -86,7 +86,6 @@ Track these key metrics to demonstrate the ROI of contract testing with Contract
 - Documentation of early wins and challenges
 - Planning for expansion to additional teams/services
 - Advanced training for pilot teams
-- Setup of contract testing guidelines and best practices
 - Review and refinement of implementation approach based on pilot
 
 **Success Criteria**:
